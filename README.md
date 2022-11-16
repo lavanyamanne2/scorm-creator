@@ -1,6 +1,6 @@
 SCORM-CREATOR
 ====================
-The plugin creates a standalone HTML5 SCORM package.
+SCORM-CREATOR Plugin creates a standalone SCORM HTML5 package with no content tools.
 
 # Installation
 
